@@ -252,7 +252,7 @@
           }
         },
         "externalReferences": {
-          "connection": "91ecdff4-3ab7-4bbb-b6e0-682881c0540d"
+          "connection": "38aef627-849f-4226-a42d-ed4ca26ab328"
         }
       },
       {
@@ -577,7 +577,7 @@
           }
         },
         "externalReferences": {
-          "connection": "91ecdff4-3ab7-4bbb-b6e0-682881c0540d"
+          "connection": "38aef627-849f-4226-a42d-ed4ca26ab328"
         }
       },
       {
@@ -658,7 +658,7 @@
           }
         },
         "externalReferences": {
-          "connection": "91ecdff4-3ab7-4bbb-b6e0-682881c0540d"
+          "connection": "38aef627-849f-4226-a42d-ed4ca26ab328"
         }
       }
     ],
@@ -778,7 +778,7 @@
       },
       "GoldWorkspaceID": {
         "type": "string",
-        "defaultValue": "8d8d00a7-0e8a-4e3b-8c0e-8dcafac7adec"
+        "defaultValue": "f6e314fe-6db4-4187-9566-cc55a0e6a49c"
       },
       "GoldDWEndpoint": {
         "type": "string",

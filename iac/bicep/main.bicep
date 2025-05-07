@@ -8,7 +8,7 @@ param dprg string= 'rg-fabric'
 @description('Microsoft Fabric Resource group location')
 param rglocation string = 'northeurope'
 
-@description('Cost Centre tag that will be applied to all resources in this deployment')
+@description('Cost Centre tag that will  be applied to all resources in this deployment')
 param cost_centre_tag string = 'MCAPS'
 
 @description('System Owner tag that will be applied to all resources in this deployment')
