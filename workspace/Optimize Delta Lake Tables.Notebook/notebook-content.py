@@ -10,14 +10,22 @@
 # META     "lakehouse": {
 # META       "default_lakehouse": "cc80a0ab-603d-4df9-bdfc-c35a7e8ab095",
 # META       "default_lakehouse_name": "lh_silver",
-# META       "default_lakehouse_workspace_id": "f6e314fe-6db4-4187-9566-cc55a0e6a49c"
+# META       "default_lakehouse_workspace_id": "8d8d00a7-0e8a-4e3b-8c0e-8dcafac7adec",
+# META       "known_lakehouses": [
+# META         {
+# META           "id": "cc80a0ab-603d-4df9-bdfc-c35a7e8ab095"
+# META         },
+# META         {
+# META           "id": "1cc0b246-74a2-4c31-b6d1-337c2c666168"
+# META         }
+# META       ]
 # META     }
 # META   }
 # META }
 
 # CELL ********************
 
-%run /DeltaLakeFunctions    
+%run /DeltaLakeFunctions
 
 # METADATA ********************
 
